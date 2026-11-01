@@ -1,0 +1,26 @@
+.taskflow-footer {
+  background-color: #1e1e24;
+  color: #8a8a93;
+  padding: 1.5rem 2rem;
+  margin-top: auto;
+  border-top: 2px solid #2d2d34;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.copyright {
+  margin: 0;
+  font-size: 0.85rem;
+}
+
+.team-credits {
+  font-size: 0.8rem;
+  color: #62626a;
+}
